@@ -1,0 +1,2 @@
+class SStackException(ValueError):
+    pass

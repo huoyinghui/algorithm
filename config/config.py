@@ -128,7 +128,7 @@ data_map = {
         "recentChangesHtml": "first version",
         # test
         "nest": {
-            "a": [1, 2, 3, 4],
+            "a": [1, 2, 2, 4],
             "b": 5,
             "c": False,
             "d": None,
